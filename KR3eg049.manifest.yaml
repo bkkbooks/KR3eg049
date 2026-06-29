@@ -1,0 +1,401 @@
+canonical_identifier: bkk:krp/KR3eg049/v1
+canonical_location: https://kanripo.org/bkk/KR3eg049/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 秋瘧指南
+  identifiers:
+    krp: KR3eg049
+  tags:
+    kr-categories: KR3eg
+    tls-dates: dat02200
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg049.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eg049_000.yaml, hash: 'sha256:007e652e9975ca4bc664826d3dead15ec16cab9370175a3eadf1f75229d5c86b'}
+  - {seq: 1, filename: KR3eg049_001.yaml, hash: 'sha256:9d73fca60fd83a846fd846066d3760b0428f8ed4fa3ecef6aa24b76e5187e247'}
+  - {seq: 2, filename: KR3eg049_002.yaml, hash: 'sha256:0ffc2c86be27e5f161c750a7f996dcd7c715a4bb59c2512d5f088fc64612c170'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eg049_000.markers.yaml, hash: 'sha256:1832686e4a52ac91047dbfd1099cd7016642c4bc8f41396992d5f3623382ae79'}
+  - {seq: 1, role: markers, filename: assets/KR3eg049_001.markers.yaml, hash: 'sha256:7b62d20901d156e4df3cc68da93e1b3260c4ebe51fec22668d23e57849037f8e'}
+  - {seq: 2, role: markers, filename: assets/KR3eg049_002.markers.yaml, hash: 'sha256:dda47779446b46bba01caeb88138aa6a929b23137e00d830573904d0e65cf99b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eg049_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 167
+  label: 秋瘧指南序一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg049_jc_000-d3.h1s1
+    span:
+    - front
+    - 167
+    - 568
+  label: 序二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg049_jc_000-d4.h1s1
+    span:
+    - front
+    - 568
+    - 975
+  label: 序三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg049_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 285
+  label: 自敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg049_jc_000-d6.h1s1
+    span:
+    - body
+    - 285
+    - 693
+  label: 秋瘧指南凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eg049_jc_001-d7.h1s1
+    span:
+    - body
+    - 0
+    - 12406
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eg049_jc_001-d7d2
+    span:
+    - body
+    - 2
+    - 150
+  label: 秋瘧原委論說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg049_jc_001-d7d3
+    span:
+    - body
+    - 150
+    - 407
+  label: 用藥須知論說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg049_jc_001-d7d4
+    span:
+    - body
+    - 407
+    - 728
+  label: 暑濕燥之熱證辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg049_jc_001-d7d5
+    span:
+    - body
+    - 728
+    - 970
+  label: 風瘧兼暑瘧之寒熱證辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg049_jc_001-d7d6
+    span:
+    - body
+    - 970
+    - 1156
+  label: 暑瘧發早晏及間日論說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg049_jc_001-d7d7
+    span:
+    - body
+    - 1156
+    - 1245
+  label: 暑邪從太陰濕土化寒證辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg049_jc_001-d7d8
+    span:
+    - body
+    - 1245
+    - 1381
+  label: 暑瘧有汗無汗證辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg049_jc_001-d7d9
+    span:
+    - body
+    - 1381
+    - 1759
+  label: 暑瘧有先熱後寒先寒後熱證辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg049_jc_001-d7d10
+    span:
+    - body
+    - 1759
+    - 1910
+  label: 暑瘧喜飲熱茶證辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg049_jc_001-d7d11
+    span:
+    - body
+    - 1910
+    - 2356
+  label: 瘧之寒熱服辛散溫證辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg049_jc_001-d7d12
+    span:
+    - body
+    - 2356
+    - 2636
+  label: 冒受暑風濕流經絡酒濕肺郁證辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg049_jc_001-d7d13
+    span:
+    - body
+    - 2636
+    - 2816
+  label: 暑瘧欲解戰汗狂言證辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg049_jc_001-d7d14
+    span:
+    - body
+    - 2816
+    - 3035
+  label: 暑邪深淺證辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg049_jc_001-d7d15
+    span:
+    - body
+    - 3035
+    - 3262
+  label: 五郁病證
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg049_jc_001-d7d16
+    span:
+    - body
+    - 3262
+    - 4133
+  label: 三陰三陽經氣瘧證辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg049_jc_001-d7d17
+    span:
+    - body
+    - 4133
+    - 9888
+  label: 五臟瘧證辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg049_jc_001-d7d18
+    span:
+    - body
+    - 9888
+    - 10129
+  label: 附滑石石膏辨論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg049_jc_001-d7d19
+    span:
+    - body
+    - 10129
+    - 10352
+  label: 石膏大黃區別論說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg049_jc_001-d7d20
+    span:
+    - body
+    - 10352
+    - 11561
+  label: 附錄陶節庵傷寒摘要
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg049_jc_001-d7d21
+    span:
+    - body
+    - 11561
+    - 12406
+  label: 婦人血風證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg049_jc_002-d8.h1s1
+    span:
+    - body
+    - 0
+    - 387
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eg049_jc_002-d9.h1s1
+    span:
+    - body
+    - 387
+    - 10277
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eg049_jc_002-d9d2
+    span:
+    - body
+    - 389
+    - 1311
+  label: 暑濕燥之單熱證辨
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg049_jc_002-d9d3
+    span:
+    - body
+    - 1311
+    - 6202
+  label: 或問曰經云魄汗未盡留連肌腠者何也
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg049_jc_002-d9d4
+    span:
+    - body
+    - 6202
+    - 6862
+  label: 紅花退熱奇案
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg049_jc_002-d9d5
+    span:
+    - body
+    - 6862
+    - 8210
+  label: 附錄唐容川先生痢證方治諸方列下
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg049_jc_002-d9d6
+    span:
+    - body
+    - 8210
+    - 8337
+  label: 附錄經驗奇恆痢症
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg049_jc_002-d9d7
+    span:
+    - body
+    - 8337
+    - 8910
+  label: 附經驗鼠疫證治
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg049_jc_002-d9d8
+    span:
+    - body
+    - 8910
+    - 9647
+  label: 論疫之重證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg049_jc_002-d9d9
+    span:
+    - body
+    - 9647
+    - 9883
+  label: 論疫之危證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg049_jc_002-d9d10
+    span:
+    - body
+    - 9883
+    - 10277
+  label: 附醫家小說
+  type: section
+  level: 2
+hash: sha256:ef58e953213803155a7765aadd974e31fbfaa7d3076978ddc896cb90c057c467
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
