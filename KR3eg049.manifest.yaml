@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eg049/v1
 canonical_location: https://kanripo.org/bkk/KR3eg049/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 秋瘧指南
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eg049_000.yaml, hash: 'sha256:72851499c5eb3d53b75bd47cfaa966e281e214e784c53652cf2e33b1499000df'}
-  - {seq: 1, filename: KR3eg049_001.yaml, hash: 'sha256:d79c14f8d48f032999d13c8bf482d18aefdd88c59b648ff21bcd04d3c1dd3036'}
-  - {seq: 2, filename: KR3eg049_002.yaml, hash: 'sha256:41ea4b06c1fb716ea2dc28167f449e4e0b4a8de1d7bef6c2785c6c2b37053c2f'}
+  - {seq: 0, filename: KR3eg049_000.yaml, hash: 'sha256:40ace33987a47905322113349583c92165121711c9b61a40db35e79620a6851b'}
+  - {seq: 1, filename: KR3eg049_001.yaml, hash: 'sha256:416695320d32f805a8e4aae1e59d713cfd2151322c8440da521fcf1dfe875f4c'}
+  - {seq: 2, filename: KR3eg049_002.yaml, hash: 'sha256:1f9c37bd34b42bb2b7e0ea38954b884b5f3f027f49163105413e0d29cc273079'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg049_000.markers.yaml, hash: 'sha256:49844be2caeee59014d05a5bde68319a62c9f0b34681a0db9b5bec5da9df6b90'}
-  - {seq: 1, role: markers, filename: assets/KR3eg049_001.markers.yaml, hash: 'sha256:1b128e4fd4a4c34e79422d1fd76470865d1a1cef81208c77f09e82e55ecb488a'}
-  - {seq: 2, role: markers, filename: assets/KR3eg049_002.markers.yaml, hash: 'sha256:951c56817d7fc465d5fea35132c9277c6d386d5fa6e3945cc6f7c5e1f4cc729d'}
+  - {seq: 0, role: markers, filename: assets/KR3eg049_000.markers.yaml, hash: 'sha256:cda91eafd552996250fcf88ed4fd2547b9c4ad1c309935eeddd12526338e44b0'}
+  - {seq: 1, role: markers, filename: assets/KR3eg049_001.markers.yaml, hash: 'sha256:bc2c8045ae20cded8d613846176ea5cca0d9f8e749c06444203980c4a12db535'}
+  - {seq: 2, role: markers, filename: assets/KR3eg049_002.markers.yaml, hash: 'sha256:90577f5e9f9a7747eecf3392ee544f561b0252bcb2b0e2d7a0a2b0db87364ea8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -395,4 +395,7 @@ table_of_contents:
   label: 附醫家小說
   type: section
   level: 2
-hash: sha256:a3bf9ade62beded88165b9e73273e2318696c3eb51894e52cae3f247713165cf
+hash: sha256:786353203881a3ecb81f55b997c30b05e169314323ddc9a6396f76600e6af103
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
