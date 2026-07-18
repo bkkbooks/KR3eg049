@@ -22,8 +22,8 @@ assets:
   - {seq: 2, filename: KR3eg049_002.yaml, hash: 'sha256:1f9c37bd34b42bb2b7e0ea38954b884b5f3f027f49163105413e0d29cc273079'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eg049_000.markers.yaml, hash: 'sha256:cda91eafd552996250fcf88ed4fd2547b9c4ad1c309935eeddd12526338e44b0'}
-  - {seq: 1, role: markers, filename: assets/KR3eg049_001.markers.yaml, hash: 'sha256:bc2c8045ae20cded8d613846176ea5cca0d9f8e749c06444203980c4a12db535'}
-  - {seq: 2, role: markers, filename: assets/KR3eg049_002.markers.yaml, hash: 'sha256:90577f5e9f9a7747eecf3392ee544f561b0252bcb2b0e2d7a0a2b0db87364ea8'}
+  - {seq: 1, role: markers, filename: assets/KR3eg049_001.markers.yaml, hash: 'sha256:7ac3fcd79b9d757faa2f982f741c80c777f8250bb34bebab9402663273c132d4'}
+  - {seq: 2, role: markers, filename: assets/KR3eg049_002.markers.yaml, hash: 'sha256:22f336f59d332854f7b7e94b42b6a3476e101ea84f2e6fb012ce7725849349d3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -395,7 +395,7 @@ table_of_contents:
   label: 附醫家小說
   type: section
   level: 2
-hash: sha256:786353203881a3ecb81f55b997c30b05e169314323ddc9a6396f76600e6af103
+hash: sha256:4040d380b2db83d628fae1a4e0ed0c1887a6b331da03c1200e6a69692e9fb4a6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

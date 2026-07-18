@@ -592,6 +592,7 @@ markers:
   - {type: punctuation, offset: 4879, content: ), id: KR3eg049_jc_001-bkkpn264}
   - {type: 'tls:seg', offset: 4879, content: '', id: KR3eg049_jc_001-d7.d17.p24s5}
   - {type: punctuation, offset: 4881, content: (, id: KR3eg049_jc_001-bkkpn265}
+  - {type: 'voice:problem', offset: 4881, length: 4, id: KR3eg049_bkk_001-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 4881, got ''('' at offset 4885'}
   - {type: punctuation, offset: 4883, content: （, id: KR3eg049_jc_001-bkkpn266}
   - {type: 'tls:seg-start', offset: 4883, content: '', id: KR3eg049_jc_001-d7.d17.p24s6, seg_type: comm, member_ids: [KR3eg049_jc_001-d7.d17.p24s6, KR3eg049_jc_001-d7.d17.p24s7, KR3eg049_jc_001-d7.d17.p24s8, KR3eg049_jc_001-d7.d17.p24s9, KR3eg049_jc_001-d7.d17.p24s10]}
   - {type: 'tls:seg', offset: 4883, content: '', id: KR3eg049_jc_001-d7.d17.p24s6}
@@ -2054,4 +2055,4 @@ markers:
   - {type: substitution, offset: 12397, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: xml-element, offset: 12406, content: '', id: KR3eg049_jc_001-d7.d21p28_end, name: p, role: close, attrs: {'xml:id': KR3eg049_jc_001-d7.d21p28}}
   back: []
-hash: sha256:bc2c8045ae20cded8d613846176ea5cca0d9f8e749c06444203980c4a12db535
+hash: sha256:7ac3fcd79b9d757faa2f982f741c80c777f8250bb34bebab9402663273c132d4
