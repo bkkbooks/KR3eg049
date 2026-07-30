@@ -17,11 +17,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eg049_000.yaml, hash: 'sha256:40ace33987a47905322113349583c92165121711c9b61a40db35e79620a6851b'}
+  - {seq: 0, filename: KR3eg049_000.yaml, hash: 'sha256:41009d78e7ffdc7b3dc85977679246f9f3be4f52d1ead6ba09bf552b419e423c'}
   - {seq: 1, filename: KR3eg049_001.yaml, hash: 'sha256:416695320d32f805a8e4aae1e59d713cfd2151322c8440da521fcf1dfe875f4c'}
   - {seq: 2, filename: KR3eg049_002.yaml, hash: 'sha256:1f9c37bd34b42bb2b7e0ea38954b884b5f3f027f49163105413e0d29cc273079'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg049_000.markers.yaml, hash: 'sha256:cda91eafd552996250fcf88ed4fd2547b9c4ad1c309935eeddd12526338e44b0'}
+  - {seq: 0, role: markers, filename: assets/KR3eg049_000.markers.yaml, hash: 'sha256:da8ed291d5696566d2860d8a3144a009e44e260b963b53bf5c358b37e747fe90'}
   - {seq: 1, role: markers, filename: assets/KR3eg049_001.markers.yaml, hash: 'sha256:7ac3fcd79b9d757faa2f982f741c80c777f8250bb34bebab9402663273c132d4'}
   - {seq: 2, role: markers, filename: assets/KR3eg049_002.markers.yaml, hash: 'sha256:22f336f59d332854f7b7e94b42b6a3476e101ea84f2e6fb012ce7725849349d3'}
 table_of_contents:
@@ -29,7 +29,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eg049_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 167
   label: 秋瘧指南序一
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eg049_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 167
     - 568
   label: 序二
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eg049_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 568
     - 975
   label: 序三
@@ -60,8 +60,8 @@ table_of_contents:
     marker_id: KR3eg049_jc_000-d5.h1s1
     span:
     - body
-    - 0
-    - 285
+    - 975
+    - 1260
   label: 自敘
   type: section
   level: 1
@@ -70,8 +70,8 @@ table_of_contents:
     marker_id: KR3eg049_jc_000-d6.h1s1
     span:
     - body
-    - 285
-    - 693
+    - 1260
+    - 1668
   label: 秋瘧指南凡例
   type: section
   level: 1
@@ -395,7 +395,7 @@ table_of_contents:
   label: 附醫家小說
   type: section
   level: 2
-hash: sha256:4040d380b2db83d628fae1a4e0ed0c1887a6b331da03c1200e6a69692e9fb4a6
+hash: sha256:575e321393bbc8549922aeef68761481c8502795ac5f54c7a25aac220047b00e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

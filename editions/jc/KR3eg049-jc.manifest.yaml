@@ -17,11 +17,11 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3eg049_000-jc.yaml, hash: 'sha256:72851499c5eb3d53b75bd47cfaa966e281e214e784c53652cf2e33b1499000df'}
+  - {seq: 0, filename: KR3eg049_000-jc.yaml, hash: 'sha256:a3fac72a50c36dab29f53c64ad6a2d7a718d85f2617d3fa84774d7b291cac39f'}
   - {seq: 1, filename: KR3eg049_001-jc.yaml, hash: 'sha256:d79c14f8d48f032999d13c8bf482d18aefdd88c59b648ff21bcd04d3c1dd3036'}
   - {seq: 2, filename: KR3eg049_002-jc.yaml, hash: 'sha256:41ea4b06c1fb716ea2dc28167f449e4e0b4a8de1d7bef6c2785c6c2b37053c2f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg049_000-jc.markers.yaml, hash: 'sha256:b4fffd0bdfd653dadabb624855f895b02a528ce794b907c757eb2ce93c875fdc'}
+  - {seq: 0, role: markers, filename: assets/KR3eg049_000-jc.markers.yaml, hash: 'sha256:d56b05e09f10bc51715c78d173e3be5ae736574df467ced86f157d4ecb19b876'}
   - {seq: 1, role: markers, filename: assets/KR3eg049_001-jc.markers.yaml, hash: 'sha256:d54ba70589223abd69543f89b39eb89995cd658d1d6781d085b6a9018c7b5042'}
   - {seq: 2, role: markers, filename: assets/KR3eg049_002-jc.markers.yaml, hash: 'sha256:4dde0bf79c4b2e7906a8ba12468ffa376b0e7517a33fdcf8975501e2d7098931'}
 table_of_contents:
@@ -29,7 +29,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eg049_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 167
   label: 秋瘧指南序一
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eg049_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 167
     - 568
   label: 序二
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eg049_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 568
     - 975
   label: 序三
@@ -60,8 +60,8 @@ table_of_contents:
     marker_id: KR3eg049_jc_000-d5.h1s1
     span:
     - body
-    - 0
-    - 285
+    - 975
+    - 1260
   label: 自敘
   type: section
   level: 1
@@ -70,8 +70,8 @@ table_of_contents:
     marker_id: KR3eg049_jc_000-d6.h1s1
     span:
     - body
-    - 285
-    - 693
+    - 1260
+    - 1668
   label: 秋瘧指南凡例
   type: section
   level: 1
@@ -395,4 +395,4 @@ table_of_contents:
   label: 附醫家小說
   type: section
   level: 2
-hash: sha256:c13467173629a469df8d3decc498c4543e30305f537eb36bb5e76ed51b87339c
+hash: sha256:9674aed5393bf5ad5773a3262b1fee55fadb10188045051ff60a46690731391c
